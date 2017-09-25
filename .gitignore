@@ -286,3 +286,5 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/Seth_Palmer_Hw2/Seth_Palmer_Hw2/Seth_Palmer_Hw2.vcxproj.filters
+/Seth_Palmer_Hw2/Seth_Palmer_Hw2/Seth_Palmer_Hw2.vcxproj
